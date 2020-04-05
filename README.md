@@ -39,7 +39,7 @@ npm run build
 
 ## License & copyright
 
-© Robert C 
+© Jemery G
 
 Licensed under the [MIT License](LICENSE.md).
 
